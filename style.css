@@ -14,10 +14,9 @@ body {
   text-align: center
 }
 |
-.kartu-profil jpeg {
+.kartu-profil img {
   width: 150px;
   border-radius: 50%;
-}
-.kartu-profil {
-  /
+  height: 150px;
+  object-fit: cover;
 }
